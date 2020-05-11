@@ -711,36 +711,22 @@
 			]
 		}]
 	},
-		{
-     "title":" أخبار وطنية 1",
+	  {
+   "title":"العربية",
     "drawable":"",
-    "submenu":"أخبار وطنية",
+    "submenu":"أخبار",
     "iap":false,
     "tabs":[
-	           
-	 {
-        "title":"أخبار وطنية 1",
-        "provider":"youtube",
+      {
+        "title":"WebView",
+        "provider":"webview",
         "arguments":[
-          "UCdvWVsmQBROkgcGzVep73oA",
-          "channel"
-
+          "https://www.alarabiya.net/latest-news.html"
         ]
-     }
-	    ,
-	     {
-        "title":"أخبار نسمة NEws",
-        "provider":"youtube",
-        "arguments":[
-          "UC-48PCT3flS86JkLzxlTA9g",
-          "channel"
+      }
+    ]
 
-        ]
-     }
-	    
-     ]
-     }
-	,	
+  },	
 {
     "title":"عن التطبيق",
     "drawable":"",
