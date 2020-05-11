@@ -35,6 +35,24 @@
         ]
      }
 	    ,
+	    	   {
+        "title":"Mbc 1",
+        "provider":"youtube",
+        "arguments":[
+          "UCPvObfhnwu_QNi6mc4z5UPQ",
+          "channel"
+
+        ]
+     },
+     	   {
+        "title":"قناة9",
+        "provider":"youtube",
+        "arguments":[
+          "UCd7iPWvZCpXMIarpFhn_Bgg",
+          "channel"
+
+        ]
+     },
 	    {
         "title":"SBC Channel",
         "provider":"youtube",
