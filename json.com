@@ -723,7 +723,7 @@
      ]
      }
 	,	
-	{
+{
     "title":"عن التطبيق",
     "drawable":"",
     "submenu":"اخري",
@@ -733,7 +733,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.bouzee.eppl.SettingsFragment", "fragment"
+          "com.aramexapps.appa.sauditv.SettingsFragment", "fragment"
         ]
       }
     ]
